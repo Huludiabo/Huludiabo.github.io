@@ -14,7 +14,7 @@ layout: home
                                                       
 ``` 
 
-Jek is a minimalist jekyll theme putting the power of color schemes in the user's hands. Toggle between schemes hassle-free, create new ones on the go, and store settings in-browser. Developed by [Tyler Butler](https://tbutler.org)
+Diabloshulu the Homepage.. Developed by [hacker me](https://huludiabo.github.io/)
 
 ## ⚡ Features 
 
@@ -70,4 +70,9 @@ If you're interested in contributing to Jek, feel free to fork the repository an
 
 ## ⚖️ License
 
-Licensed under [MIT](/LICENSE.txt) by [@tcbutler320](https://github.com/tcbutler320).
+Licensed under [MIT](/LICENSE.txt) by [@tcbutler320](https://github.com/tcbutler320)+ [@Huludiabo](https://github.com/Huludiabo/)
+
+## 😈 Web/Xss
+
+Emerging from the cunning abyss, this is a ruthless, cunning, and sophistical figure in hiding. ⭐⭐⭐⭐⭐(SSR)
+XSS Magic Master
