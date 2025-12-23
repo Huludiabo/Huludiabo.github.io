@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "jek"
+  spec.name          = "diabloshulu777"
   spec.version       = "0.0.7"
-  spec.authors       = ["tcbutler320"]
-  spec.email         = ["tcbutler320@gmail.com"]
+  spec.authors       = ["diabloshulu"]
+  spec.email         = ["diabloshulu777@proton.me"]
 
   spec.summary       = "Jek is a minimalist jekyll theme putting the power of color schemes in the user’s hands"
   spec.homepage      = "https://jekyll-jek.netlify.app/"
